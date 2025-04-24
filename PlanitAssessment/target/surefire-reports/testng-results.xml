@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-24T02:52:51 AEST" name="IframeTestSuite" finished-at="2025-04-24T02:54:32 AEST" duration-ms="101136">
+  <suite started-at="2025-04-24T14:27:36 AEST" name="IframeTestSuite" finished-at="2025-04-24T14:29:17 AEST" duration-ms="101054">
     <groups>
     </groups>
-    <test started-at="2025-04-24T02:52:51 AEST" name="IframeTestExecution" finished-at="2025-04-24T02:54:32 AEST" duration-ms="101136">
+    <test started-at="2025-04-24T14:27:36 AEST" name="IframeTestExecution" finished-at="2025-04-24T14:29:17 AEST" duration-ms="101054">
       <class name="Test.Planit_Test_Execution">
-        <test-method signature="validatecontactFields()[pri:1, instance:Test.Planit_Test_Execution@9635fa]" started-at="2025-04-24T02:52:51 AEST" name="validatecontactFields" finished-at="2025-04-24T02:53:22 AEST" duration-ms="31278" status="PASS">
+        <test-method signature="validatecontactFields()[pri:1, instance:Test.Planit_Test_Execution@1af1347d]" started-at="2025-04-24T14:27:36 AEST" name="validatecontactFields" finished-at="2025-04-24T14:28:07 AEST" duration-ms="31058" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validatecontactFields -->
-        <test-method signature="submit_form()[pri:2, instance:Test.Planit_Test_Execution@9635fa]" started-at="2025-04-24T02:53:22 AEST" name="submit_form" finished-at="2025-04-24T02:54:31 AEST" duration-ms="68107" status="PASS">
+        <test-method signature="submit_form()[pri:2, instance:Test.Planit_Test_Execution@1af1347d]" started-at="2025-04-24T14:28:07 AEST" name="submit_form" finished-at="2025-04-24T14:29:14 AEST" duration-ms="67099" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- submit_form -->
-        <test-method signature="buy_item()[pri:3, instance:Test.Planit_Test_Execution@9635fa]" started-at="2025-04-24T02:54:31 AEST" name="buy_item" finished-at="2025-04-24T02:54:32 AEST" duration-ms="1400" status="PASS">
+        <test-method signature="buy_item()[pri:3, instance:Test.Planit_Test_Execution@1af1347d]" started-at="2025-04-24T14:29:14 AEST" name="buy_item" finished-at="2025-04-24T14:29:17 AEST" duration-ms="2564" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buy_item -->
-        <test-method is-config="true" signature="close()[pri:0, instance:Test.Planit_Test_Execution@9635fa]" started-at="2025-04-24T02:54:32 AEST" name="close" finished-at="2025-04-24T02:54:32 AEST" duration-ms="281" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:Test.Planit_Test_Execution@1af1347d]" started-at="2025-04-24T14:29:17 AEST" name="close" finished-at="2025-04-24T14:29:17 AEST" duration-ms="192" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
