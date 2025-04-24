@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="IframeTestSuite">
+    <test name="IframeTestExecution">
+        <classes>
+            <class name="Test.Planit_Test_Execution"/>
+        </classes>
+    </test>
+</suite>
